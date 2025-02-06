@@ -1,4 +1,4 @@
-# Nonstationary Bandit Simulation and Deep Performance Analysis
+# Nonstationary Bandit Simulations
 
 This project compares several bandit algorithms on a nonstationary 10-armed bandit problem. The following animations illustrate the evolution of key performance metrics over time.
 
