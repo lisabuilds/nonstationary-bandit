@@ -33,7 +33,7 @@ from matplotlib.animation import PillowWriter
 
 
 # ------------------------------
-# Global Constants (can be tunned futher)
+# Global Constants (can be tuned futher)
 # ------------------------------
 NUM_ARMS = 10
 EPSILON = 0.1         # for epsilon-greedy methods
